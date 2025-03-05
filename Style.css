@@ -61,7 +61,7 @@ body
 .para_color
 {
     color: grey;
-    font-size: 17px;
+    font-size: 16px;
 }
 .topmargin
 {
@@ -149,4 +149,27 @@ body
     width: 10%;
     border: none;
     font-size: 18px;
+}
+.company_name
+{
+    font-size: 12px;
+    text-align: left;
+    margin-bottom: 3px;
+    font-weight: bold;
+    color: grey;
+}
+.inputbox-company
+{
+    text-align: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 15px;
+    border: 2px solid rgb(117, 133, 236);
+    border-radius: 8px;
+    box-shadow: 4px 4px 10px grey;
+    
+}
+.dropdown
+{
+    margin-top: 25px;
 }
